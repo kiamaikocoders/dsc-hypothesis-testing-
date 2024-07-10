@@ -1,5 +1,4 @@
 # dsc-hypothesis-testing-
-Sure, I'll explain each concept step-by-step in simple terms. 
 
 ### What is a Hypothesis?
 
